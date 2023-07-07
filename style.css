@@ -1,0 +1,19 @@
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: black;
+  transition: all .5s;
+}
+
+button{
+  font-family: sans-serif;
+  border: 2px solid red;
+  padding: 20px 50px;
+  text-transform: capitalize;
+  color: red;
+  background: rgba(0, 0, 0, 0);
+  border-radius: 50px;
+  font-size: 25px;
+}
